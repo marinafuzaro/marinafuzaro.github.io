@@ -1,0 +1,172 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-base: "Playfair Display", serif;
+$headings-font-family: "Libre Baskerville", serif;
+
+// bootstrap / quarto overrides
+$primary: #b181b1;
+$navbar-bg: #ffffff;
+$navbar-fg: #222222;
+
+/*-- scss:rules --*/
+
+// font faces
+@font-face {
+  font-family: "Playfair Display";
+  src: url("www/fonts/PlayfairDisplay-VariableFont_wght.ttf") format("truetype-variations");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Libre Baskerville";
+  src: url("www/fonts/LibreBaskerville-VariableFont_wght.ttf") format("truetype-variations");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+// navbar
+.navbar {
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 2rem;
+    right: 2rem;
+    bottom: 0;
+    height: 2px;
+    background-color: $primary;
+    border-radius: 999px;
+  }
+}
+
+.nav-icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  margin-right: 0.3em;
+}
+
+.navbar .nav-icon {
+  width: 24px;
+  height: 24px;
+}
+
+// about
+.about-split {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-top: 2rem;
+
+  @media (max-width: 768px) {
+    .about-split-left,
+    .about-split-right {
+      flex-basis: 100%;
+      max-width: 100%;
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}
+
+.about-split-left {
+  flex: 0 0 32%;
+  max-width: 32%;
+  box-sizing: border-box;
+  padding-right: 1.5rem;
+  text-align: center;
+}
+
+.about-split-right {
+  flex: 0 0 68%;
+  max-width: 68%;
+  box-sizing: border-box;
+  padding-left: 1.5rem;
+}
+
+.about-photo {
+  display: block;
+  width: 230px;
+  height: 230px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 1rem;
+}
+
+.about-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  column-gap: 1.4em;
+  row-gap: 1em;
+  margin-top: 1em;
+}
+
+.about-link {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.8em;
+  padding: 0.25em 0.5em;
+  border: solid 1px;
+  border-radius: 4px;
+  color: lighten($body-color, 20%);
+  text-decoration: none;
+
+  .nav-icon {
+    width: 1em;
+    height: 1em;
+    margin-right: 0.15em;
+  }
+
+  &:hover {
+    color: $link-color;
+  }
+}
+
+.edu-entry {
+  margin-bottom: 2.25rem;
+}
+
+.edu-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  padding-bottom: 0.4rem;
+}
+
+.edu-entry:has(.edu-details) .edu-header {
+  border-bottom: 1px solid $border-color;
+  margin-bottom: 0.5rem;
+}
+
+.edu-title {
+  color: $body-color;
+}
+
+.edu-date {
+  flex-shrink: 0;
+  color: $primary;
+  white-space: nowrap;
+}
+
+.edu-details {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.edu-details li {
+  position: relative;
+  padding-left: 1em;
+  color: lighten($body-color, 10%);
+}
+
+.edu-details li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+}

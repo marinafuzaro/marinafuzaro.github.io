@@ -1,0 +1,72 @@
+---
+pagetitle: "Marina Fuzaro"
+toc: false
+---
+
+::: {.about-split}
+
+::: {.about-split-left}
+![](www/img/profile.jpeg){.about-photo}
+
+# Marina Fuzaro
+
+Master in Mathematics, teacher, and researcher in History of Mathematical Education.
+
+<div class="about-links"><a href="mailto:marinafuzaro@gmail.com" class="about-link"><svg class="nav-icon" aria-hidden="true"><use xlink:href="www/icons/email.svg#icon"></use></svg> Email</a><a href="http://lattes.cnpq.br/7681457601206658" class="about-link"><img src="www/icons/lattes.svg" class="nav-icon" alt=""> Lattes</a><a href="https://www.linkedin.com/in/marina-fuzaro-magossi-3babb8157/" class="about-link"><svg class="nav-icon" aria-hidden="true"><use xlink:href="www/icons/linkedin.svg#icon"></use></svg> LinkedIn</a></div>
+:::
+
+::: {.about-split-right}
+
+## Education
+
+<div class="edu-entry">
+<div class="edu-header"><span class="edu-title"><strong>PhD in Mathematics Education</strong> UNESP, Rio Claro</span><span class="edu-date">2027 – present</span></div>
+</div>
+
+<div class="edu-entry">
+<div class="edu-header"><span class="edu-title"><strong>Professional Master's in Mathematics</strong> — UNESP, Rio Claro</span><span class="edu-date">2023 – 2026</span></div>
+<ul class="edu-details">
+<li>Thesis: <a href="https://repositorio.unesp.br/entities/publication/4f49a472-bc82-4ee1-9a16-e60a361b49d6"><em>Teoremas de Hahn-Banach e algumas aplicações</em></a></li>
+<li>Advisor: Suzete Maria Silva Afonso</li>
+</ul>
+</div>
+
+<div class="edu-entry">
+<div class="edu-header"><span class="edu-title"><strong>Degree in Pedagogy</strong> — UNIVESP</span><span class="edu-date">2023 – present</span></div>
+</div>
+
+<div class="edu-entry">
+<div class="edu-header"><span class="edu-title"><strong>B.Sc. and Teaching Degree in Mathematics</strong> — UNESP, Rio Claro</span><span class="edu-date">2017 – 2021</span></div>
+</div>
+
+## Experience
+
+<div class="edu-entry">
+<div class="edu-header"><span class="edu-title"><strong>Mathematics Teacher</strong> — Colégio Metropolitano</span><span class="edu-date">2024 – 2025</span></div>
+</div>
+
+<div class="edu-entry">
+<div class="edu-header"><span class="edu-title"><strong>High School Mathematics Teacher</strong> — Fundação Municipal de Ensino de Piracicaba (FUMEP)</span><span class="edu-date">2024</span></div>
+</div>
+
+<div class="edu-entry">
+<div class="edu-header"><span class="edu-title"><strong>Mathematics Tutor</strong> — Centro Educacional Terras do Engenho</span><span class="edu-date">2023 – 2024</span></div>
+</div>
+
+<div class="edu-entry">
+<div class="edu-header"><span class="edu-title"><strong>Teaching Intern</strong> — Instituto de Geociências e Ciências Exatas (IGCE)</span><span class="edu-date">2023</span></div>
+<ul class="edu-details">
+<li>Calculus I (Ecology) & Calculus I for Ecologists</li>
+</ul>
+</div>
+
+<div class="edu-entry">
+<div class="edu-header"><span class="edu-title"><strong>Teaching Assistant</strong> — Instituto de Geociências e Ciências Exatas (IGCE)</span><span class="edu-date">2021</span></div>
+<ul class="edu-details">
+<li>Linear Algebra I</li>
+</ul>
+</div>
+
+:::
+
+:::

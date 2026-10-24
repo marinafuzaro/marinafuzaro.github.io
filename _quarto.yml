@@ -1,0 +1,38 @@
+project:
+  type: website
+  resources:
+    - www/img/*
+    - www/css/*
+    - www/fonts/*
+    - www/icons/*
+
+
+website:
+  search: true
+  page-navigation: true
+  open-graph: true
+
+  navbar:
+    title: false
+    logo: www/icons/books.svg
+    left:
+      - href: index.qmd
+        text: About Me
+      - href: teaching.qmd
+        text: Teaching
+    right:
+      - href: https://github.com/marinafuzaro
+        text: '<svg class="nav-icon" aria-hidden="true"><use xlink:href="www/icons/github.svg#icon"></use></svg>'
+        aria-label: GitHub
+
+  page-footer:
+    border: false
+    left: Website made with <a href="https://quarto.org"><img src="www/icons/quarto.svg" class="nav-icon" alt="" aria-hidden="true">Quarto</a> v.{{< version >}}
+
+
+format:
+  html:
+    theme: [cosmo, www/css/styles.scss]
+    toc: true
+    grid:
+      body-width: 1400px
