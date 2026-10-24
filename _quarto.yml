@@ -32,7 +32,9 @@ website:
 
 format:
   html:
-    theme: [cosmo, www/css/styles.scss]
+    theme:
+      light: [cosmo, www/css/styles.scss, www/css/styles-light.scss]
+      dark: [cosmo, www/css/styles.scss, www/css/styles-dark.scss]
     toc: true
     grid:
       body-width: 1400px

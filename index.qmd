@@ -20,7 +20,7 @@ Master in Mathematics, teacher, and researcher in History of Mathematical Educat
 ## Education
 
 <div class="edu-entry">
-<div class="edu-header"><span class="edu-title"><strong>PhD in Mathematics Education</strong> UNESP, Rio Claro</span><span class="edu-date">2027 – present</span></div>
+<div class="edu-header"><span class="edu-title"><strong>PhD in Mathematics Education</strong> — UNESP, Rio Claro</span><span class="edu-date">2027 – present</span></div>
 </div>
 
 <div class="edu-entry">
@@ -46,7 +46,7 @@ Master in Mathematics, teacher, and researcher in History of Mathematical Educat
 </div>
 
 <div class="edu-entry">
-<div class="edu-header"><span class="edu-title"><strong>High School Mathematics Teacher</strong> — Fundação Municipal de Ensino de Piracicaba (FUMEP)</span><span class="edu-date">2024</span></div>
+<div class="edu-header"><span class="edu-title"><strong>High School Mathematics Teacher</strong> — Fundação Municipal de Ensino de Piracicaba </span><span class="edu-date">2024</span></div>
 </div>
 
 <div class="edu-entry">
