@@ -4,11 +4,6 @@
 $font-family-base: "Playfair Display", serif;
 $headings-font-family: "Libre Baskerville", serif;
 
-// bootstrap / quarto overrides
-$primary: #b181b1;
-$navbar-bg: #ffffff;
-$navbar-fg: #222222;
-
 /*-- scss:rules --*/
 
 // font faces
@@ -127,7 +122,7 @@ $navbar-fg: #222222;
 }
 
 .edu-entry {
-  margin-bottom: 2.25rem;
+  margin-bottom: 1.15rem;
 }
 
 .edu-header {
@@ -139,12 +134,23 @@ $navbar-fg: #222222;
 }
 
 .edu-entry:has(.edu-details) .edu-header {
-  border-bottom: 1px solid $border-color;
   margin-bottom: 0.5rem;
 }
 
 .edu-title {
+  position: relative;
+  padding-left: 1.2em;
   color: $body-color;
+
+  &::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%) scale(1.4);
+    transform-origin: left center;
+    color: $primary;
+  }
 }
 
 .edu-date {
@@ -155,7 +161,7 @@ $navbar-fg: #222222;
 
 .edu-details {
   list-style: none;
-  padding-left: 0;
+  padding-left: 1.5em;
   margin: 0;
 }
 
