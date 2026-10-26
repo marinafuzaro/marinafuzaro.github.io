@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "teaching/vestibulares/index.html",
+    "href": "teaching/vestibulares/index.html",
+    "title": "Vestibular Solutions (Work in Progress)",
+    "section": "",
+    "text": "Worked solutions to math questions from past entrance exams, organized by exam.\nAll materials below are in Portuguese."
+  },
+  {
+    "objectID": "teaching/vestibulares/index.html#enem",
+    "href": "teaching/vestibulares/index.html#enem",
+    "title": "Vestibular Solutions (Work in Progress)",
+    "section": "ENEM",
+    "text": "ENEM"
+  },
+  {
+    "objectID": "teaching/vestibulares/index.html#unesp",
+    "href": "teaching/vestibulares/index.html#unesp",
+    "title": "Vestibular Solutions (Work in Progress)",
+    "section": "Unesp",
+    "text": "Unesp"
+  },
+  {
+    "objectID": "teaching/vestibulares/index.html#fuvest",
+    "href": "teaching/vestibulares/index.html#fuvest",
+    "title": "Vestibular Solutions (Work in Progress)",
+    "section": "Fuvest",
+    "text": "Fuvest"
+  },
+  {
+    "objectID": "teaching/vestibulares/index.html#unicamp",
+    "href": "teaching/vestibulares/index.html#unicamp",
+    "title": "Vestibular Solutions (Work in Progress)",
+    "section": "Unicamp",
+    "text": "Unicamp"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Calculus I for Ecology\n\n\nLecture notes, exams, and exercise lists.\n\n\n\n\n\n\n\n\n\nVestibular Solutions (Work in Progress)\n\n\nSolved past exams: ENEM, Unesp, Fuvest, and Unicamp (2023–present).\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Marina Fuzaro",
@@ -21,10 +63,31 @@
     "text": "Mathematics Teacher — Colégio Metropolitano2024 – 2025\n\n\n\n\nHigh School Mathematics Teacher — Fundação Municipal de Ensino de Piracicaba 2024\n\n\n\n\nMathematics Tutor — Centro Educacional Terras do Engenho2023 – 2024\n\n\n\n\nTeaching Intern — Instituto de Geociências e Ciências Exatas (IGCE)2023\n\n\n\nCalculus I (Ecology) & Calculus I for Ecologists\n\n\n\n\n\nTeaching Assistant — Instituto de Geociências e Ciências Exatas (IGCE)2021\n\n\n\nLinear Algebra I"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "teaching/calculo-ecologia/index.html",
+    "href": "teaching/calculo-ecologia/index.html",
+    "title": "Calculus I for Ecology",
     "section": "",
-    "text": "Course materials and vestibular solutions."
+    "text": "Materials from Calculus I for Ecology, taught at IGCE/UNESP.\nAll materials below are in Portuguese."
+  },
+  {
+    "objectID": "teaching/calculo-ecologia/index.html#notes",
+    "href": "teaching/calculo-ecologia/index.html#notes",
+    "title": "Calculus I for Ecology",
+    "section": "Notes",
+    "text": "Notes\n\nLecture Notes"
+  },
+  {
+    "objectID": "teaching/calculo-ecologia/index.html#exams",
+    "href": "teaching/calculo-ecologia/index.html#exams",
+    "title": "Calculus I for Ecology",
+    "section": "Exams",
+    "text": "Exams\n\nP1 · Solution\nP2\nP2 — Make-up\nSubstitute Exam\nFinal Exam"
+  },
+  {
+    "objectID": "teaching/calculo-ecologia/index.html#exercise-lists",
+    "href": "teaching/calculo-ecologia/index.html#exercise-lists",
+    "title": "Calculus I for Ecology",
+    "section": "Exercise Lists",
+    "text": "Exercise Lists\n\nList 1\nList 2\nGuided Study 1\nGuided Study 2"
   }
 ]

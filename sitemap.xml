@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://marinafuzaro.github.io/index.html</loc>
-    <lastmod>2026-10-24T19:44:15.532Z</lastmod>
+    <loc>https://marinafuzaro.github.io/teaching/vestibulares/index.html</loc>
+    <lastmod>2026-10-26T19:20:02.505Z</lastmod>
   </url>
   <url>
-    <loc>https://marinafuzaro.github.io/teaching.html</loc>
-    <lastmod>2026-10-24T19:44:15.532Z</lastmod>
+    <loc>https://marinafuzaro.github.io/teaching/index.html</loc>
+    <lastmod>2026-10-26T19:20:02.504Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marinafuzaro.github.io/index.html</loc>
+    <lastmod>2026-10-26T19:20:02.498Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marinafuzaro.github.io/teaching/calculo-ecologia/index.html</loc>
+    <lastmod>2026-10-26T19:20:02.498Z</lastmod>
   </url>
 </urlset>
