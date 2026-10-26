@@ -1,0 +1,9 @@
+---
+title: "Teaching"
+listing:
+  contents:
+    - calculo-ecologia/index.qmd
+    - vestibulares/index.qmd
+  type: grid
+  fields: [title, description]
+---

@@ -5,6 +5,7 @@ project:
     - www/css/*
     - www/fonts/*
     - www/icons/*
+    - teaching/**/*.pdf
 
 
 website:
@@ -18,7 +19,7 @@ website:
     left:
       - href: index.qmd
         text: About Me
-      - href: teaching.qmd
+      - href: teaching/index.qmd
         text: Teaching
     right:
       - href: https://github.com/marinafuzaro

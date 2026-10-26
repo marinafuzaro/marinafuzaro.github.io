@@ -1,0 +1,27 @@
+---
+title: "Calculus I for Ecology"
+description: "Lecture notes, exams, and exercise lists."
+---
+
+Materials from Calculus I for Ecology, taught at IGCE/UNESP.
+
+*All materials below are in Portuguese.*
+
+## Notes
+
+- [Lecture Notes](notas/CalculoI_NotasdeAula.pdf){target="_blank"}
+
+## Exams
+
+- [P1](provas/P1_CalculoEco.pdf){target="_blank"} · [Solution](provas/ResolucaoP1_CalculoEco.pdf){target="_blank"}
+- [P2](provas/P2_CalculoEco.pdf){target="_blank"}
+- [P2 — Make-up](provas/P2Sub_Calc1Eco.pdf){target="_blank"}
+- [Substitute Exam](provas/CalculoI_ProvaSub.pdf){target="_blank"}
+- [Final Exam](provas/CalculoI_Exame.pdf){target="_blank"}
+
+## Exercise Lists
+
+- [List 1](listas/CalculoI_Lista1.pdf){target="_blank"}
+- [List 2](listas/CalculoI_Lista2.pdf){target="_blank"}
+- [Guided Study 1](listas/EstudoDirigido1_CalculoEco.pdf){target="_blank"}
+- [Guided Study 2](listas/EstudoDirigido2_CalculoEco.pdf){target="_blank"}
