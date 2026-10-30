@@ -44,6 +44,12 @@ $headings-font-family: "Libre Baskerville", serif;
   margin-right: 0.3em;
 }
 
+// blockquote
+blockquote,
+.blockquote {
+  color: $body-color;
+}
+
 .navbar .nav-icon {
   width: 24px;
   height: 24px;
