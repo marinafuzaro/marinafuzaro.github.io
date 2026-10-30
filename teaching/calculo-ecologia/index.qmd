@@ -1,9 +1,9 @@
 ---
 title: "Calculus I for Ecology"
-description: "Lecture notes, exams, and exercise lists."
+description: "Lecture notes, exams, and exercise lists. First semester of 2023."
 ---
 
-Materials from Calculus I for Ecology, taught at IGCE/UNESP.
+Materials from Calculus I for Ecology, taught at IGCE/UNESP, during the first semester of 2023.
 
 *All materials below are in Portuguese.*
 

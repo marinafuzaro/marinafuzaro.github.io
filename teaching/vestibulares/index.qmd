@@ -9,6 +9,8 @@ Worked solutions to math questions from past entrance exams, organized by exam.
 
 ## ENEM
 
+- [2023 — Prova Amarela (2º dia)](enem/2023-prova-amarela.qmd){target="_blank"}
+
 ## Unesp
 
 ## Fuvest
