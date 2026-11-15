@@ -5,5 +5,12 @@
       "/teaching/calculo-ecologia/index.html",
       "/teaching/vestibulares/index.html"
     ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/articles/index.html",
+      "/research/events/index.html"
+    ]
   }
 ]

@@ -1,23 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://marinafuzaro.github.io/index.html</loc>
-    <lastmod>2026-10-30T23:18:57.677Z</lastmod>
-  </url>
-  <url>
     <loc>https://marinafuzaro.github.io/teaching/index.html</loc>
-    <lastmod>2026-10-30T23:18:57.685Z</lastmod>
+    <lastmod>2026-11-15T22:54:17.834Z</lastmod>
   </url>
   <url>
     <loc>https://marinafuzaro.github.io/teaching/vestibulares/enem/2023-prova-amarela.html</loc>
-    <lastmod>2026-10-30T23:18:57.686Z</lastmod>
+    <lastmod>2026-11-15T22:54:17.837Z</lastmod>
   </url>
   <url>
-    <loc>https://marinafuzaro.github.io/teaching/vestibulares/index.html</loc>
-    <lastmod>2026-10-30T23:18:57.755Z</lastmod>
+    <loc>https://marinafuzaro.github.io/index.html</loc>
+    <lastmod>2026-11-15T22:54:17.828Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marinafuzaro.github.io/research/index.html</loc>
+    <lastmod>2026-11-15T22:54:17.829Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marinafuzaro.github.io/research/events/enaphem-2026/index.html</loc>
+    <lastmod>2026-11-15T22:54:17.829Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marinafuzaro.github.io/research/events/index.html</loc>
+    <lastmod>2026-11-15T22:54:17.829Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marinafuzaro.github.io/research/articles/index.html</loc>
+    <lastmod>2026-11-15T22:54:17.829Z</lastmod>
   </url>
   <url>
     <loc>https://marinafuzaro.github.io/teaching/calculo-ecologia/index.html</loc>
-    <lastmod>2026-10-30T23:18:57.677Z</lastmod>
+    <lastmod>2026-11-15T22:54:17.830Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marinafuzaro.github.io/teaching/vestibulares/index.html</loc>
+    <lastmod>2026-11-15T22:54:17.890Z</lastmod>
   </url>
 </urlset>
