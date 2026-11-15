@@ -6,6 +6,7 @@ project:
     - www/fonts/*
     - www/icons/*
     - teaching/**/*.pdf
+    - research/**/*.pdf
 
 
 website:
@@ -21,6 +22,8 @@ website:
         text: About Me
       - href: teaching/index.qmd
         text: Teaching
+      - href: research/index.qmd
+        text: Research
     right:
       - href: https://github.com/marinafuzaro
         text: '<svg class="nav-icon" aria-hidden="true"><use xlink:href="www/icons/github.svg#icon"></use></svg>'

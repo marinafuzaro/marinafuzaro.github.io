@@ -1,0 +1,12 @@
+---
+title: "Conference Participation (Work in Progress)"
+description: "Papers and presentations at academic events."
+---
+
+Papers presented and participation in academic events, organized by year.
+
+*All materials below are in Portuguese.*
+
+## 2026
+
+- [VIII ENAPHEM — São Paulo](enaphem-2026/index.qmd){target="_blank"} — doctoral project presentation

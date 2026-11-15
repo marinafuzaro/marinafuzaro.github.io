@@ -1,0 +1,9 @@
+---
+title: "Research"
+listing:
+  contents:
+    - articles/index.qmd
+    - events/index.qmd
+  type: grid
+  fields: [title, description]
+---
