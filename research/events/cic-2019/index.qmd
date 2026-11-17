@@ -1,0 +1,21 @@
+---
+title: "XXXI CIC UNESP (2019)"
+---
+
+The **CIC** — *Congresso de Iniciação Científica da UNESP* — is the university-wide undergraduate research congress, held in two phases: a first phase internal to each campus, from which selected works go on to the university-wide second phase. I presented in the first phase at the Rio Claro campus (IGCE) in 2019, in the oral presentation session.
+
+## The work
+
+**Uma aplicação da Análise Funcional às Equações Diferenciais Ordinárias** — Marina Fuzaro Magossi, supervised by Profª Drª Marta Cilene Gadotti.
+
+The project, carried out through individual reading and weekly seminars, shows how a result from functional analysis settles a question about ordinary differential equations: the existence and uniqueness of the solution of an initial value problem.
+
+The argument goes from the definition of a contraction to the Banach fixed point theorem, and from there to Picard's existence and uniqueness theorem, which guarantees a unique solution on an interval around the initial condition whenever $f$ is continuous and Lipschitz in its second argument. The theorem is then applied to two population models: Malthus's exponential growth $y' = ry$ and Verhulst's logistic equation, for which the Lipschitz condition is verified on a rectangle and the explicit solution obtained by partial fractions.
+
+## Slides
+
+*The presentation is in Portuguese.* [Open the PDF in a new tab](presentation.pdf){target="_blank"}.
+
+<div class="pdf-embed pdf-embed--43">
+<iframe src="presentation.pdf" title="XXXI CIC UNESP — slides" loading="lazy"></iframe>
+</div>

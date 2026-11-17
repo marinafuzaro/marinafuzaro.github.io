@@ -1,0 +1,23 @@
+---
+title: "IV Encontro do PGMAT (2026)"
+---
+
+The **IV Encontro do PGMAT** is the annual meeting of the Graduate Program in Mathematics (PGMAT) at IGCE/UNESP, Rio Claro, where master's and doctoral students present their work in progress to the rest of the programme. It was held on 12–13 March 2026 at the Rio Claro campus.
+
+This was my own master's programme, and I used the talk as a rehearsal for my dissertation defence: I presented an excerpt of the dissertation to an audience of colleagues and faculty from the programme.
+
+## The work
+
+**Aplicações do Teorema de Hahn-Banach à Teoria da Representação** — Marina Fuzaro Magossi, supervised by Profª Drª Suzete Maria Silva Afonso.
+
+The talk follows a single thread: how far the two principles of the Hahn–Banach theorem — **extension** (a continuous linear functional on a subspace extends to the whole space, preserving the norm) and **separation** (two disjoint convex sets can be separated by a closed hyperplane) — carry the theory of integral representation in locally convex spaces.
+
+The starting point is Carathéodory's theorem, which writes every point of a convex hull in $\mathbb{R}^n$ as a finite convex combination of at most $n+1$ extreme points — a discrete measure. In infinite dimension finite combinations are no longer enough, and the question becomes how to represent points of a compact convex set by a measure. The presentation then goes through Krein–Milman, Choquet's theorem, its Choquet–Bishop–de Leeuw extension to the non-metrisable case, the barycentre theorem, and Jensen's inequality, closing with a table that names the exact role Hahn–Banach plays in each of them.
+
+## Slides
+
+*The presentation is in Portuguese.* [Open the PDF in a new tab](presentation.pdf){target="_blank"}.
+
+<div class="pdf-embed">
+<iframe src="presentation.pdf" title="IV Encontro do PGMAT — slides" loading="lazy"></iframe>
+</div>

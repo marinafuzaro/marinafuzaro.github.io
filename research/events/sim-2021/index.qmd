@@ -1,0 +1,25 @@
+---
+title: "XXIV SiM (2021)"
+---
+
+The **XXIV SiM** — *Simpósio de Matemática para Graduação* — is organised by the ICMC (Instituto de Ciências Matemáticas e de Computação) at USP São Carlos and is aimed at undergraduate mathematics students, with lectures, round tables, short courses and student presentations. The 2021 edition ran from 4 to 8 October and was held entirely online, streamed on YouTube, because of the COVID-19 pandemic.
+
+I was an undergraduate student at the time and presented in the student session.
+
+<div class="about-links"><a href="https://sites.google.com/usp.br/sim2021/pagina-inicial" class="about-link" target="_blank" rel="noopener">Event website</a></div>
+
+## The work
+
+**Uma aplicação da Álgebra Linear à Genética** — Marina Fuzaro, supervised by Profª Drª Marta Cilene Gadotti.
+
+The talk uses diagonalisation to answer a genetics question: given the distribution of genotypes in an initial population, what does the distribution look like in the $n$-th generation?
+
+Starting from the six possible pairings of the genotypes $DD$, $Dr$ and $rr$, the probabilities of the offspring's genotypes are collected in a matrix $M$, so that the distribution in generation $n$ is $x^{(n)} = M^n x^{(0)}$. Writing $M = PDP^{-1}$ makes $M^n$ computable and yields closed formulas for the three fractions at each generation. The worked example is a greenhouse of red, purple and blue flowers — a case of incomplete dominance — in which each plant is fertilised with one of its own genotype: taking the limit as $n \to \infty$ shows that the purple flowers disappear whatever the initial distribution, so the botanist's fertilisation programme cannot keep the three colours.
+
+## Slides
+
+*The presentation is in Portuguese.* [Open the PDF in a new tab](presentation.pdf){target="_blank"}.
+
+<div class="pdf-embed">
+<iframe src="presentation.pdf" title="XXIV SiM — slides" loading="lazy"></iframe>
+</div>

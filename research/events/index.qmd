@@ -3,10 +3,19 @@ title: "Conference Participation (Work in Progress)"
 description: "Papers and presentations at academic events."
 ---
 
-Papers presented and participation in academic events, organized by year.
+Papers presented and participation in academic events, most recent first.
 
 *All materials below are in Portuguese.*
 
 ## 2026
 
-- [VIII ENAPHEM — São Paulo](enaphem-2026/index.qmd){target="_blank"} — doctoral project presentation
+- [VIII ENAPHEM — São Paulo, November](enaphem-2026/index.qmd){target="_blank"} — doctoral project presentation
+- [IV Encontro do PGMAT — Rio Claro, March](encpgmat-2026/index.qmd){target="_blank"} — excerpt of the master's dissertation
+
+## 2021
+
+- [XXIV SiM — ICMC/USP São Carlos, October (online)](sim-2021/index.qmd){target="_blank"} — undergraduate presentation
+
+## 2019
+
+- [XXXI CIC UNESP — Rio Claro, first phase](cic-2019/index.qmd){target="_blank"} — undergraduate research presentation
