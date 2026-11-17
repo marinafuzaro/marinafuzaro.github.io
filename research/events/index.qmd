@@ -1,9 +1,7 @@
 ---
-title: "Conference Participation (Work in Progress)"
-description: "Papers and presentations at academic events."
+title: "Conference Participation"
+description: "Presentations at academic events, most recent first."
 ---
-
-Papers presented and participation in academic events, most recent first.
 
 *All materials below are in Portuguese.*
 
